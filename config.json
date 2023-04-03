@@ -1,0 +1,12 @@
+{
+    "ipc_node" : "/home/ipc/eth.ipc",
+    "ws_node" : "ws://localhost:8546/",
+    "connectionType" : "ws",
+    "privatekey" : "",
+    "subprivatekey" : "",
+    "mainContract" : "0xfd97b7867610060Cbd0e4009241f87f3626125dD",
+    "gasLimit" : "500000",
+    "gasPriceMultiplier" : "1",
+    "maxBuyTax" : "100",
+    "antiHP" : "false"
+}
